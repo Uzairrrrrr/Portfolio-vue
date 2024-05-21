@@ -11,12 +11,12 @@
         <a class="mr-5 pt-3 mb-1 text-custom-white hover:text-white transition-all duration-300">Services</a>
         <a class="mr-5 pt-3 mb-1 text-custom-white hover:text-white transition-all duration-300">Works</a>
       </nav>
-        <div class="p-2 mt-2 flex gap-4 ml-auto">
-          <a href="https://www.facebook.com/itzzzz.uzi" target="_blank" class="text-white text-3xl"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
-          <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Flmao_uzi1" target="_blank" class="text-white text-3xl"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-          <a href="https://www.linkedin.com/in/uzair-/" target="_blank" class="text-white text-3xl"><i class="fab fa-linkedin" aria-hidden="true"></i></a> 
-          <a href="https://github.com/Uzairrrrrr" target="_blank" class="text-white text-3xl"><i class="fab fa-github" aria-hidden="true"></i></a> 
-        </div>
+      <div class="p-2 mt-2 flex gap-4 ml-auto">
+        <a href="https://www.facebook.com/itzzzz.uzi" target="_blank" class="text-white text-2xl"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+        <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Flmao_uzi1" target="_blank" class="text-white text-2xl"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+        <a href="https://www.linkedin.com/in/uzair-/" target="_blank" class="text-white text-2xl"><i class="fab fa-linkedin" aria-hidden="true"></i></a> 
+        <a href="https://github.com/Uzairrrrrr" target="_blank" class="text-white text-2xl"><i class="fab fa-github" aria-hidden="true"></i></a> 
+      </div>
       </div>
 </header>
 </template>
