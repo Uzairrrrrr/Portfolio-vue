@@ -27,7 +27,7 @@
           <img
             src="@/assets/Image-4.png"
             alt="Background Image"
-            class="w-full h-full  object-cover pt-12 z-0 md:static absolute top-0"
+            class="w-full h-full object-cover pt-16 z-0 md:static absolute top-0"
           />
       </div>
     </div>
