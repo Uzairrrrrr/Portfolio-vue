@@ -9,6 +9,12 @@ module.exports = {
       colors: {
         'custom-white': 'rgba(255, 255, 255, 0.5)', 
       },
+      fontFamily: {
+        'lora': ['Lora', 'serif'],
+      },
+      letterSpacing: {
+        'extra-wide': '0.2rem',
+      },
     },
   },
   plugins: [],
