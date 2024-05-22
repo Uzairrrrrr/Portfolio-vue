@@ -1,14 +1,14 @@
 <template>
-  <header class="bg-gray-800 text-white body-font fixed w-full top-0 z-50">
+  <header class="bg-black text-white body-font fixed w-full top-0 z-50">
     <div class="container mx-auto flex flex-wrap p-5 items-center">
       <a class="flex title-font font-medium items-center text-white mx-auto md:mx-0">
         <img src="@/assets/Logo (1).svg" alt="Logo" class="w-32 h-10">
       </a>
       <nav class="hidden md:flex md:ml-auto md:mr-auto flex-wrap gap-4 items-center text-base justify-center uppercase transition-all duration-300">
-        <a class="pt-3 mb-1 text-custom-white hover:text-white transition-all duration-300 font-sans tracking-extra-wide">Intro</a>
-        <a class="pt-3 mb-1 text-custom-white hover:text-white transition-all duration-300 font-sans tracking-extra-wide">About</a>
-        <a class="pt-3 mb-1 text-custom-white hover:text-white transition-all duration-300 font-sans tracking-extra-wide">Services</a>
-        <a class="pt-3 mb-1 text-custom-white hover:text-white transition-all duration-300 font-sans tracking-extra-wide">Works</a>
+        <a class="mb-1 text-custom-white hover:text-white transition-all duration-300 font-sans tracking-extra-wide">Intro</a>
+        <a class="mb-1 text-custom-white hover:text-white transition-all duration-300 font-sans tracking-extra-wide">About</a>
+        <a class="mb-1 text-custom-white hover:text-white transition-all duration-300 font-sans tracking-extra-wide">Services</a>
+        <a class="mb-1 text-custom-white hover:text-white transition-all duration-300 font-sans tracking-extra-wide">Works</a>
       </nav>
       <div class="hidden md:flex p-2 mt-2 gap-4 ml-auto">
         <a href="https://www.facebook.com/itzzzz.uzi" target="_blank" class="text-white text-2xl"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
@@ -16,7 +16,7 @@
         <a href="https://www.linkedin.com/in/uzair-/" target="_blank" class="text-white text-2xl"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
         <a href="https://github.com/Uzairrrrrr" target="_blank" class="text-white text-2xl"><i class="fab fa-github" aria-hidden="true"></i></a>
       </div>
-      <button class="md:hidden text-white focus:outline-none ml-auto" @click="toggleMenu">
+      <button class="md:hidden text-white focus:outline-none" @click="toggleMenu">
         <i class="fas fa-bars"></i>
       </button>
     </div>

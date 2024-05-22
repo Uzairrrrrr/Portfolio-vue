@@ -11,8 +11,8 @@
             Hey, I'm Uzair
           </h3>
           <h1 class="md:text-6xl text-3xl md:font-bold font-semibold text-white mb-12 font-lora">
-            Backend Developer <br />
-            & Web Developer <br />
+            Full Stack<br />
+            Web Developer <br />
             Based In Karachi.
           </h1>
           <div class="flex">
@@ -23,12 +23,14 @@
             >
           </div>
         </div>
+        <div>
           <!-- Background Image -->
           <img
             src="@/assets/Image-4.png"
             alt="Background Image"
             class="w-full h-full object-cover pt-16 z-0 md:static absolute top-0"
           />
+        </div>
       </div>
     </div>
   </section>
