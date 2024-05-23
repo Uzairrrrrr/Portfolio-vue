@@ -26,7 +26,7 @@
         <div>
           <!-- Background Image -->
           <img
-            src="@/assets/Image-4.png"
+            src="@/assets/Image-6.png"
             alt="Background Image"
             class="w-full h-full object-cover pt-16 z-0 md:static absolute top-0"
           />
